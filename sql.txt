@@ -1,5 +1,5 @@
 ﻿1. CREATE TABLE kitarr( //создание таблицы гитары
-id int, 
+id int primary_key, 
 nimi varchar(30),
 firma varchar(30)
 );
