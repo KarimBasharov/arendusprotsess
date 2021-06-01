@@ -1,6 +1,6 @@
-1. CREATE TABLE kitarr( //создание таблицы гитары
-id int 
-nimi varchar(30)
+﻿1. CREATE TABLE kitarr( //создание таблицы гитары
+id int primary key,
+nimi varchar(30),
 firma varchar(30)
 )
 
